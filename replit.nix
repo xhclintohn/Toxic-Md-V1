@@ -1,4 +1,4 @@
-{ pkgs }: {
+{ pkgs }: {1
     deps = [  
         pkgs.nodejs
         pkgs.nodePackages.typescript
