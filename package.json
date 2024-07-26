@@ -5,9 +5,9 @@
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "start": "pm2 start . --attach --name Queen_Anita-V2",
+      "run": "pm2 start . --deep-monitoring --attach --name Toxic-Md-V1 || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name Toxic-Md-V1 || node .",
+      "start": "pm2 start . --attach --name Toxic-Md-V1",
       "stop": "pm2 stop Toxic-Md-V1",
       "heroku-postbuild": "git clone https://github.com/xhclintohn/Toxic-Md-V1 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/"xhclintohn/Toxic-Md-V1.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
