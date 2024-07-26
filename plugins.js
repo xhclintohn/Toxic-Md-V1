@@ -1,4 +1,4 @@
-const fs = require('fs');q
+const fs = require('fs');
 const path = require('path');
 const directoryPath = '../plugins';
 let jsFileCount = 0;
@@ -14,4 +14,4 @@ fs.readdir(directoryPath, function (err, files) {
     });
     console.log(`Found ${jsFileCount} .js files in the directory.`);
 });
-//David Cyril
+//xhclinton
