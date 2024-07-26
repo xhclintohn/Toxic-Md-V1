@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('fs');q
 const path = require('path');
 const directoryPath = '../plugins';
 let jsFileCount = 0;
