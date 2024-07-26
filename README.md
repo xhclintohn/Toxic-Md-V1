@@ -65,4 +65,13 @@ TOXIC-MD V1
 
 ### ```To pair```
 
+- *Toxic-Md-V1 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Toxic-Md-V1 at your own risk by keeping this warning in mind.*
+  
 
+
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/xhclintohn)
+<b>Version -> 2.0.0</b>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a
