@@ -1,13 +1,13 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/xhclintohn/Toxic-Md-V1/root/xhclintohn
+RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 /root/DeeCeeXxx
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/xhclintohn/node_modules
+RUN rm -rf /root/DeeCeeXxx/node_modules
 
 # Install dependencies
-WORKDIR /root/xhclintohn
+WORKDIR /root/DeeCeeXxx
 RUN npm install
 
 # Add additional Steps To Run...
